@@ -1,0 +1,26 @@
+<!-- 
+cmsmasters_package: Medical Clinic
+cmsmasters_version: 1.0.9
+-->
+<wpml-config>
+    <admin-texts>
+        <key name="cmsmasters_options_medical-clinic_header">
+            <key name="medical-clinic_header_top_line_short_info" />
+            <key name="medical-clinic_header_top_line_donations_but_text" />
+            <key name="medical-clinic_header_donations_but_text" />
+            <key name="medical-clinic_header_add_cont_cust_html" />
+        </key>
+		<key name="cmsmasters_options_medical-clinic_footer">
+            <key name="medical-clinic_footer_html" />
+            <key name="medical-clinic_footer_copyright" />
+        </key>
+		<key name="cmsmasters_options_medical-clinic_single_project">
+            <key name="medical-clinic_portfolio_project_details_title" />
+        </key>
+		<key name="cmsmasters_options_medical-clinic_single_profile">
+            <key name="medical-clinic_profile_post_details_title" />
+        </key>
+    </admin-texts>
+</wpml-config>
+
+
